@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{8BB2FB98-7832-4509-9E3E-38B2775C22A7}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CxWebApp", "CxWebApp\CxWebApp.csproj", "{638D93FA-AF55-4DA2-9233-62C22DFC0759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638D93FA-AF55-4DA2-9233-62C22DFC0759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638D93FA-AF55-4DA2-9233-62C22DFC0759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638D93FA-AF55-4DA2-9233-62C22DFC0759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638D93FA-AF55-4DA2-9233-62C22DFC0759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8AF16C-F5FB-4169-81D7-1EA920E5B198}
+	EndGlobalSection
+EndGlobal
